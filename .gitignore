@@ -1,0 +1,9 @@
+/*
+!README.md
+Makefile
+!.gitignore
+
+!/payment
+/payment/*
+
+!/payment/ConcordPay
